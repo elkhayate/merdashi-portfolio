@@ -1,0 +1,41 @@
+{
+  "title": "Some Things I've Built",
+  "featured": [
+    {
+      "title": "Blobnest",
+      "description": "BlobNest is a modern, professional web dashboard for managing and monitoring your Azure Blob Storage account. It provides a user-friendly interface for administrators and users to view, organize, and control containers, files, and storage activity in real time.",
+      "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-11%20013612.png",
+      "technologies": ["TypeScript", "Chart.js", "Compression", "Azure", "React"],
+      "github": "https://github.com/elkhayate/blobnest-frontend",
+      "external": "https://blobnest-frontend.vercel.app/dashboard",
+      "featured": true
+    },
+    {
+      "title": "Video Downloader",
+      "description": "Video Downloader is a modern, professional web application for downloading and managing videos from a wide range of platforms. It provides a user-friendly interface for users to fetch, preview, and manage their downloaded videos, all stored securely in the cloud and available for download to any device.",
+      "image": "https://blobnest.blob.core.windows.net/merdashi/downloader.png",
+      "technologies": ["React", "Shadcn", "Express", "Azure", "Python", "Network"],
+      "github": "https://github.com/elkhayate/downloader-client",
+      "external": "https://downloader-client.vercel.app/",
+      "featured": true
+    },
+    {
+      "title": "Audiobook AI",
+      "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-18%20041046.png",
+      "description": "A modern web application for converting text to speech and managing audiobooks.",
+      "technologies": ["Next.js", "Next UI", "NestJS", "OpenAI", "Supabase"],
+      "github": "https://github.com/elkhayate/audiobook-client",
+      "external": "https://audiobook-client-ubz5.vercel.app/",
+      "featured": true
+    },
+    {
+      "title": "The Met Museum",
+      "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-18%20043057.png",
+      "description": "A modern landing page for The Met Museum.",
+      "technologies": ["HTML", "CSS", "BEM", "SCSS"],
+      "github": "https://github.com/elkhayate/layout_miami/tree/develop",
+      "external": "https://elkhayate.github.io/layout_miami/#",
+      "featured": true
+    }  
+  ] 
+}

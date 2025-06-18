@@ -1,0 +1,50 @@
+{
+  "title": "Where I've Worked",
+  "jobs": [
+    {
+      "company": "Statpile UG",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/statpile/",
+      "startDate": "Nov 2023",
+      "endDate": "Present",
+      "responsibilities": [
+        "Developing and maintaining a B2B SaaS platform with high-complexity features.",
+        "Working with Node.js, React, TypeScript, and JavaScript to build scalable web applications.",
+        "Handling large data sets (4.5M+ articles per customer) with efficient backend solutions."
+      ]
+    },
+    {
+      "company": "Jobase",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/jobasesoftware/",
+      "startDate": "Sep 2023",
+      "endDate": "Oct 2024",
+      "responsibilities": [
+        "Developed the frontend (React, Next.js) and backend (Node.js, ExpressJS) of the customer portal.",
+        "Built the admin dashboard and mobile app interface"
+      ]
+    },
+    {
+      "company": "Terabyte",
+      "position": "Software Development Engineer",
+      "url": "https://www.linkedin.com/company/terabyte-software/",
+      "startDate": "Sep 2022",
+      "endDate": "Oct 2023",
+      "responsibilities": [
+        "Designed and implemented full-stack features using Node.js (ExpressJS, NestJS) and React.",
+        "Optimized and refactored legacy code to enhance performance and maintainability."
+      ]
+    },
+    {
+      "company": "Edgybrain",
+      "position": "Software Development Engineer",
+      "url": "https://www.linkedin.com/company/edgybrain/",
+      "startDate": "May 2022",
+      "endDate": "Sep 2022",
+      "responsibilities": [
+        "Maintained and improved an e-commerce web application using JavaScript, React, and Laravel PhP.",
+        "Integrated third-party APIs and optimized backend performance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "About Me",
+  "paragraphs": [
+    "Hello! I'm Merdashi, a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in web development started with a deep curiosity about how digital experiences are created and has evolved into a professional pursuit of building robust, scalable applications.",
+    "With experience in modern web technologies and a keen eye for user experience, I specialize in creating seamless digital solutions that combine technical excellence with intuitive design. My approach to development is centered around writing clean, maintainable code and implementing best practices that ensure long-term project success.",
+    "I'm particularly interested in building applications that solve real-world problems and enhance user experiences. Whether it's developing responsive web applications, implementing complex features, or optimizing performance, I'm committed to delivering high-quality solutions.",
+    "Here are some of the technologies I work with:"
+  ],
+  "technologies": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "SQL",
+    "Docker",
+    "Git",
+    "Azure",
+    "NestJS"
+  ]
+}
