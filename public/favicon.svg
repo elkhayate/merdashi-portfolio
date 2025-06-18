@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#0a192f"/>
+  
+  <!-- Letter M -->
+  <path d="M8 8h3l4 8 4-8h3v16h-3v-8l-4 8-4-8v8H8V8z" fill="#64ffda"/>
+</svg> 
