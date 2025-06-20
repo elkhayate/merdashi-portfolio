@@ -7,7 +7,7 @@
       "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-11%20013612.png",
       "technologies": ["TypeScript", "Chart.js", "Compression", "Azure", "React"],
       "github": "https://github.com/elkhayate/blobnest-frontend",
-      "external": "https://blobnest-frontend.vercel.app/dashboard",
+      "external": "https://blobnest-frontend.vercel.app/",
       "featured": true
     },
     {
