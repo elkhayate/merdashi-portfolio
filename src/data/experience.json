@@ -20,7 +20,7 @@
       "startDate": "Sep 2023",
       "endDate": "Oct 2024",
       "responsibilities": [
-        "Developed the frontend (React, Next.js) and backend (Node.js, ExpressJS) of the customer portal.",
+        "Developed the frontend (React, Next.js, React Native (Expo)) and backend (Node.js, ExpressJS) of the customer portal.",
         "Built the admin dashboard and mobile app interface"
       ]
     },
