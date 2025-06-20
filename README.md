@@ -4,6 +4,10 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ![Portfolio Preview](./public/placeholder.jpg)
 
+## 🙏 Acknowledgments
+
+- Original design by [Brittany Chiang](https://v4.brittanychiang.com/)
+
 ## 🚀 Features
 
 - ⚡️ Next.js 14 with App Router
@@ -94,12 +98,6 @@ The project uses Tailwind CSS for styling. You can customize:
 - Colors in `tailwind.config.ts`
 - Layout in `app/page.tsx`
 - Components in `components/` directory
-
-## 🙏 Acknowledgments
-
-- Original design by [Brittany Chiang](https://v4.brittanychiang.com/)
-- Icons by [Lucide](https://lucide.dev/)
-- Fonts by [Google Fonts](https://fonts.google.com/)
 
 ## 🤝 Contributing
 

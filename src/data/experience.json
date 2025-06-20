@@ -9,7 +9,7 @@
       "endDate": "Present",
       "responsibilities": [
         "Developing and maintaining a B2B SaaS platform with high-complexity features.",
-        "Working with Node.js, React, TypeScript, and JavaScript to build scalable web applications.",
+        "Working with Node.js, React, TypeScript, and Azure to build scalable web applications.",
         "Handling large data sets (4.5M+ articles per customer) with efficient backend solutions."
       ]
     },
@@ -31,7 +31,7 @@
       "startDate": "Sep 2022",
       "endDate": "Oct 2023",
       "responsibilities": [
-        "Designed and implemented full-stack features using Node.js (ExpressJS, NestJS) and React.",
+        "Designed and implemented full-stack features using Node.js (ExpressJS, NestJS), React, and Azure.",
         "Optimized and refactored legacy code to enhance performance and maintainability."
       ]
     },

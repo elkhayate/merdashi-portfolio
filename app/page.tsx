@@ -208,7 +208,7 @@ export default function Portfolio() {
 
         {/* Footer */}
         <footer className="py-8 text-center">
-          <p className="text-xs md:text-sm">Built by {personalData.name}</p>
+          <p className="text-xs md:text-sm">Built by {personalData.name}, feel free to fork the code on <a href="https://github.com/elkhayate/merdashi-portfolio" target="_blank" rel="noopener noreferrer" className="text-[#64ffda] hover:text-[#64ffda]/80 transition-colors">GitHub</a></p>
         </footer>
       </main>
     </div>
