@@ -2,6 +2,15 @@
   "title": "Some Things I've Built",
   "featured": [
     {
+      "title": "The tools list",
+      "description": "A modern, SEO-optimized marketing site built with Next.js 14 that showcases curated lists of the best tools across different categories.",
+      "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-07-20%20091436.png",
+      "technologies": ["TypeScript", "SEO", "NextJS", "Shadcn", "Tailwind"],
+      "github": "https://github.com/elkhayate",
+      "external": "https://www.thetoolslist.com",
+      "featured": true
+    },
+    {
       "title": "Blobnest",
       "description": "BlobNest is a modern, professional web dashboard for managing and monitoring your Azure Blob Storage account. It provides a user-friendly interface for administrators and users to view, organize, and control containers, files, and storage activity in real time.",
       "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-11%20013612.png",
