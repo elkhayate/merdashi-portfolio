@@ -1,9 +1,10 @@
 {
   "title": "About Me",
   "paragraphs": [
-    "Hello! I'm Merdashi, a Frontend Specialist with Full-Stack Capability and a strong foundation in both frontend and backend technologies. My journey in web development started with a deep curiosity about how digital experiences are created and has evolved into a professional pursuit of building robust, scalable applications.",
-    "With experience in modern web technologies and a keen eye for user experience, I specialize in creating seamless digital solutions that combine technical excellence with intuitive design. My approach to development is centered around writing clean, maintainable code and implementing best practices that ensure long-term project success.",
-    "I'm particularly interested in building applications that solve real-world problems and enhance user experiences. Whether it's developing responsive web applications, implementing complex features, or optimizing performance, I'm committed to delivering high-quality solutions.",
+    "Hello! I'm Merdashi, a Frontend Specialist with Full-Stack Capability and a Computer Engineering bachelor's degree. With strong startup experience, I specialize in building and scaling products from the ground up, transforming innovative ideas into robust, market-ready solutions that drive business growth.",
+    "My journey combines technical expertise with entrepreneurial mindset, having worked extensively in startup environments where rapid iteration, scalability, and user-centric design are paramount. I excel at taking products from concept to launch, implementing scalable architectures, and optimizing performance at every stage of growth.",
+    "With my computer engineering foundation and hands-on startup experience, I bring a unique perspective to product development. I understand both the technical complexities of building scalable systems and the business requirements of growing startups. My approach centers on creating maintainable, high-performance solutions that can evolve with rapidly changing business needs.",
+    "I'm passionate about solving real-world problems through technology and have a proven track record of building applications that not only meet technical requirements but also deliver exceptional user experiences and drive measurable business outcomes.",
     "Here are some of the technologies I work with:"
   ],
   "technologies": [
@@ -12,10 +13,10 @@
     "Next.js",
     "Node.js",
     "Python",
-    "SQL",
-    "Docker",
+    "SQL/NoSQL/GraphQL",
+    "Docker/Kubernetes",
     "Git",
     "Azure DevOps",
-    "NestJS"
+    "Redis"
   ]
 }
