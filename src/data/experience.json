@@ -54,6 +54,18 @@
         "Developed cloud-native applications using modern DevOps practices and cloud infrastructure."
       ],
       "reference": null
+    },
+    {
+      "company": "Edgybrain",
+      "position": "Software Development Engineer",
+      "url": "https://www.linkedin.com/company/edgybrain/",
+      "startDate": "May 2022",
+      "endDate": "Sep 2022",
+      "responsibilities": [
+        "Maintained and improved an e-commerce web application using JavaScript, React, and Laravel PhP.",
+        "Integrated third-party APIs and optimized backend performance."
+      ],
+      "reference": null
     }
   ]
 }
