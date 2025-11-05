@@ -19,6 +19,10 @@
     "CI/CD/Jenkins",
     "Helm/Git",
     "OWASP/GDPR",
-    "Redis"
+    "Redis",
+    "RAG",
+    "LangGraph",
+    "LangChain",
+    "LangSmith"
   ]
 }
