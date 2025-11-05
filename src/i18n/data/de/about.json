@@ -1,0 +1,28 @@
+{
+    "title": "Über mich",
+    "paragraphs": [
+        "Hallo! Ich bin Mohamed El Khayate, ein Full‑Stack‑Entwickler mit einem Bachelor in Computer Engineering von der Khnure in Charkiw. Mit starker Startup‑Erfahrung spezialisiere ich mich darauf, cloud‑native Produkte von Grund auf aufzubauen und zu skalieren und innovative Ideen in robuste, marktreife Lösungen zu verwandeln.",
+        "Mein Weg verbindet tiefes technisches Know‑how mit unternehmerischer Denkweise. In Startup‑Umgebungen habe ich skalierbare Cloud‑Infrastrukturen mit Azure und Kubernetes entworfen und bereitgestellt, einschließlich AKS‑Clustern für Container‑Orchestrierung und Service‑Skalierung. Ich arbeite effizient mit großen Datenmengen (4,5M+ Artikel pro Kunde) durch performante Backend‑Lösungen.",
+        "Mit meiner Grundlage im Computer Engineering und praktischer Cloud‑Engineering‑Erfahrung bringe ich eine einzigartige Perspektive in die Produktentwicklung ein. Ich habe CI/CD‑Pipelines aufgebaut, Deployments mit Terraform automatisiert und Kubernetes‑Workloads betrieben. Mein Fokus liegt auf wartbaren, leistungsstarken Cloud‑Lösungen, die sich mit schnell wechselnden Geschäftsanforderungen weiterentwickeln können.",
+        "Ich brenne dafür, reale Probleme mit Cloud‑Technologien zu lösen, und habe nachweislich Full‑Stack‑Anwendungen gebaut, die nicht nur technische Anforderungen erfüllen, sondern auch hervorragende Nutzererlebnisse liefern und messbare Geschäftsergebnisse erzielen.",
+        "Hier sind einige der Technologien, mit denen ich arbeite:"
+    ],
+    "technologies": [
+        "Linux/Shell",
+        "TypeScript/JavaScript",
+        "Next.js/React",
+        "Node.js/NestJS",
+        "Python/Go",
+        "SQL/NoSQL/GraphQL",
+        "Docker/Kubernetes",
+        "Azure/Terraform",
+        "CI/CD/Jenkins",
+        "Helm/Git",
+        "OWASP/GDPR",
+        "Redis",
+        "RAG",
+        "LangGraph",
+        "LangChain",
+        "LangSmith"
+    ]
+}

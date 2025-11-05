@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "about": "About",
+        "experience": "Experience",
+        "work": "Work",
+        "contact": "Contact",
+        "resume": "Resume"
+    },
+    "selector": {
+        "label": "Language",
+        "en": "English",
+        "de": "Deutsch"
+    },
+    "hero": {
+        "cta": "Get in touch"
+    },
+    "work": {
+        "featured": "Featured Project",
+        "showMore": "Show More"
+    },
+    "experience": {
+        "viewReference": "View Reference"
+    },
+    "contact": {
+        "preTitle": "04. What's Next?"
+    },
+    "footer": {
+        "builtBy": "Built by {name}, feel free to fork the code on"
+    }
+}

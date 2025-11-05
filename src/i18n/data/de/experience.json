@@ -1,0 +1,71 @@
+{
+    "title": "Wo ich gearbeitet habe",
+    "jobs": [
+        {
+            "company": "Statpile UG",
+            "position": "Software Engineer",
+            "url": "https://www.linkedin.com/company/statpile/",
+            "startDate": "Nov 2023",
+            "endDate": "Jun 2025",
+            "responsibilities": [
+                "Entwicklung und Wartung einer B2B-SaaS-Plattform mit hochkomplexen Funktionen.",
+                "Entwurf und Bereitstellung skalierbarer Cloud-Infrastruktur mit Azure und Kubernetes, einschließlich AKS-Clustern für Container-Orchestrierung und Service-Skalierung.",
+                "Umgang mit großen Datensätzen (4,5 Mio.+ Artikel pro Kunde) mit effizienten Backend-Lösungen.",
+                "Arbeiten mit Node.js, React, TypeScript und Azure zum Aufbau skalierbarer Webanwendungen."
+            ],
+            "reference": "https://blobnest.blob.core.windows.net/merdashi/Arbeitszeugnis%20-%2021.05.25,%2012_08.pdf"
+        },
+        {
+            "company": "Jobase",
+            "position": "Software Engineer",
+            "url": "https://www.linkedin.com/company/jobasesoftware/",
+            "startDate": "Aug 2023",
+            "endDate": "Oct 2024",
+            "responsibilities": [
+                "Erstellung und Wartung von CI/CD-Pipelines in GitLab und Azure DevOps für automatisierte Bereitstellungen und Tests.",
+                "Aufbau des Kundenportals & Admin-Dashboards und der Mobile-App-Oberfläche mit React, Next.js und React Native (Expo).",
+                "Erstellung von CI-Pipelines mit Jenkins und Automatisierung der Deployment-Flows.",
+                "Automatisierte Bereitstellung mit Terraform und Erstellung von Kubernetes-Deployment-Manifesten für skalierbare Dienste."
+            ],
+            "reference": "https://blobnest.blob.core.windows.net/merdashi/Mohamed%20El%20khayate.pdf"
+        },
+        {
+            "company": "Terabyte",
+            "position": "Software Engineer",
+            "url": "https://www.linkedin.com/company/terabyte-software/",
+            "startDate": "Sep 2022",
+            "endDate": "Oct 2023",
+            "responsibilities": [
+                "Entwurf und Implementierung von Full-Stack-Funktionen mit Node.js (ExpressJS, NestJS) und React.",
+                "Entwicklung interner Tools mit Go zur Verwaltung Azure-basierter Infrastruktur und K8s-Workloads.",
+                "Optimierung und Refactoring von Legacy-Code zur Verbesserung von Performance und Wartbarkeit."
+            ],
+            "reference": null
+        },
+        {
+            "company": "Freelance",
+            "position": "Software Engineer",
+            "url": "",
+            "startDate": "Mar 2019",
+            "endDate": "Heute",
+            "responsibilities": [
+                "Entwicklung von Full-Stack-Lösungen, einschließlich Web-Scraping-Skripten und komplexer SaaS-Anwendungen, von der Programmierung bis zum Deployment.",
+                "Integration von Drittanbieter-Softwarekomponenten & Verwaltung von Releases.",
+                "Entwicklung cloud-nativer Anwendungen mit modernen DevOps-Praktiken und Cloud-Infrastruktur."
+            ],
+            "reference": null
+        },
+        {
+            "company": "Edgybrain",
+            "position": "Software Development Engineer",
+            "url": "https://www.linkedin.com/company/edgybrain/",
+            "startDate": "May 2022",
+            "endDate": "Sep 2022",
+            "responsibilities": [
+                "Wartung und Verbesserung einer E-Commerce-Webanwendung mit JavaScript, React und Laravel PHP.",
+                "Integration von Drittanbieter-APIs und Optimierung der Backend-Performance."
+            ],
+            "reference": null
+        }
+    ]
+}

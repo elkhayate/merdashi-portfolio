@@ -1,0 +1,51 @@
+{
+    "title": "Einige Dinge, die ich gebaut habe",
+    "featured": [
+        {
+            "title": "Die Werkzeuge-Liste",
+            "description": "Eine moderne, SEO-optimierte Marketing-Website, die mit Next.js 14 erstellt wurde und kuratierte Listen der besten Werkzeuge in verschiedenen Kategorien präsentiert.",
+            "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-07-20%20091436.png",
+            "technologies": [
+                "TypeScript",
+                "SEO",
+                "NextJS",
+                "Shadcn",
+                "Tailwind"
+            ],
+            "github": "https://github.com/elkhayate",
+            "external": "https://www.thetoolslist.com",
+            "featured": true
+        },
+        {
+            "title": "Quickfounder",
+            "description": "QuickFounder ist eine moderne Boilerplate-Plattform, die Entwicklern und Gründern hilft, SaaS- oder Marktplatz-Apps in Tagen zu starten. Sie kommt mit Authentifizierung, Zahlungen, Datenbankintegration und einer fertigen Landingpage, sodass Sie sich auf den Aufbau Ihrer Idee konzentrieren können, anstatt auf die Einrichtung.",
+            "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-10-30%20at%2016.27.25.png",
+            "technologies": [
+                "TypeScript",
+                "Shadcn",
+                "NextJS",
+                "Stripe",
+                "SEO",
+                "Supabase",
+                "Resend"
+            ],
+            "github": "https://github.com/elkhayate",
+            "external": "https://quickfounder.dev",
+            "featured": true
+        },
+        {
+            "title": "Das Met Museum",
+            "image": "https://blobnest.blob.core.windows.net/merdashi/Screenshot%202025-06-18%20043057.png",
+            "description": "Eine moderne Landingpage für das Met Museum.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "BEM",
+                "SCSS"
+            ],
+            "github": "https://github.com/elkhayate/layout_miami/tree/develop",
+            "external": "https://elkhayate.github.io/layout_miami/#",
+            "featured": true
+        }
+    ]
+}

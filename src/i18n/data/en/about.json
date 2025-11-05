@@ -1,0 +1,28 @@
+{
+  "title": "About Me",
+  "paragraphs": [
+    "Hello! I'm Mohamed El Khayate, a Full-Stack Developer with a Computer Engineering bachelor's degree from Khnure, Kharkiv. With strong startup experience, I specialize in building and scaling cloud-native products from the ground up, transforming innovative ideas into robust, market-ready solutions.",
+    "My journey combines deep technical expertise with entrepreneurial mindset, having worked extensively in startup environments where I've designed and deployed scalable cloud infrastructure using Azure and Kubernetes, including AKS clusters for container orchestration and service scaling. I excel at handling large data sets (4.5M+ articles per customer) with efficient backend solutions.",
+    "With my computer engineering foundation and hands-on cloud engineering experience, I bring a unique perspective to product development. I've built CI/CD pipelines, automated deployments using Terraform, and managed Kubernetes workloads. My approach centers on creating maintainable, high-performance cloud solutions that can evolve with rapidly changing business needs.",
+    "I'm passionate about solving real-world problems through cloud technology and have a proven track record of building full-stack applications that not only meet technical requirements but also deliver exceptional user experiences and drive measurable business outcomes.",
+    "Here are some of the technologies I work with:"
+  ],
+  "technologies": [
+    "Linux/Shell",
+    "TypeScript/JavaScript",
+    "Next.js/React",
+    "Node.js/NestJS",
+    "Python/Go",
+    "SQL/NoSQL/GraphQL",
+    "Docker/Kubernetes",
+    "Azure/Terraform",
+    "CI/CD/Jenkins",
+    "Helm/Git",
+    "OWASP/GDPR",
+    "Redis",
+    "RAG",
+    "LangGraph",
+    "LangChain",
+    "LangSmith"
+  ]
+}
