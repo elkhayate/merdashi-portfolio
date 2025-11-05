@@ -3,6 +3,8 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import Head from 'next/head'
 import { Analytics } from '@vercel/analytics/react'
+import ClientProviders from '@/components/ClientProviders'
+import { cookies } from 'next/headers'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -57,17 +59,21 @@ export const metadata: Metadata = {
   }
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+  const cookieStore = await cookies()
+  const localeCookie = cookieStore.get('locale')?.value
+  const locale = localeCookie === 'de' ? 'de' : 'en'
+  const langName = locale === 'de' ? 'Deutsch' : 'English'
   return (
-    <html lang="en">
+    <html lang={locale}>
       <Head>
         {/* Extra SEO Meta Tags */}
         <meta name="author" content="Merdashi (Mohamed El Khayate)" />
-        <meta name="language" content="English" />
+        <meta name="language" content={langName} />
         {/* JSON-LD Person & WebSite Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -103,7 +109,10 @@ export default function RootLayout({
           })
         }} />
       </Head>
-      <body className={inter.className}>{children}<Analytics /></body>
+      <body className={inter.className}>
+        <ClientProviders>{children}</ClientProviders>
+        <Analytics />
+      </body>
     </html>
   )
 }
