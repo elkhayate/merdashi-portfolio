@@ -7,22 +7,22 @@
         "Ich brenne dafür, reale Probleme mit Cloud‑Technologien zu lösen, und habe nachweislich Full‑Stack‑Anwendungen gebaut, die nicht nur technische Anforderungen erfüllen, sondern auch hervorragende Nutzererlebnisse liefern und messbare Geschäftsergebnisse erzielen.",
         "Hier sind einige der Technologien, mit denen ich arbeite:"
     ],
-    "technologies": [
-        "Linux/Shell",
-        "TypeScript/JavaScript",
-        "Next.js/React",
-        "Node.js/NestJS",
-        "Python/Go",
-        "SQL/NoSQL/GraphQL",
-        "Docker/Kubernetes",
-        "Azure/Terraform",
-        "CI/CD/Jenkins",
-        "Helm/Git",
-        "OWASP/GDPR",
-        "Redis",
-        "RAG",
-        "LangGraph",
-        "LangChain",
-        "LangSmith"
-    ]
+  "technologies": [
+    "Linux/Shell",
+    "TypeScript/JavaScript",
+    "Next.js/React",
+    "Node.js/NestJS",
+    "C#/.Net",
+    "Python/Go",
+    "SQL/NoSQL/GraphQL",
+    "Docker/Kubernetes",
+    "Azure/Terraform",
+    "CI/CD/Jenkins",
+    "Helm/Git",
+    "OWASP/GDPR",
+    "Redis",
+    "RAG",
+    "LangGraph",
+    "LangChain"
+  ]
 }
