@@ -12,6 +12,7 @@
     "TypeScript/JavaScript",
     "Next.js/React",
     "Node.js/NestJS",
+    "C#/.Net",
     "Python/Go",
     "SQL/NoSQL/GraphQL",
     "Docker/Kubernetes",
@@ -22,7 +23,6 @@
     "Redis",
     "RAG",
     "LangGraph",
-    "LangChain",
-    "LangSmith"
+    "LangChain"
   ]
 }
