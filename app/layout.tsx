@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Merdashi (Mohamed El Khayate) | Frontend Specialist Portfolio',
-  description: "Portfolio of Merdashi (Mohamed El Khayate), Frontend Specialist with Full-Stack Capability based in Frankfurt, Germany. Explore projects, experience, and contact information.",
+  description: "Portfolio of Merdashi (Mohamed El Khayate), Full-Stack Developer & Computer Engineer based in Leipzig, Germany. Explore projects, experience, and contact information.",
   keywords: [
     'Merdashi',
     'Mohamed El Khayate',
